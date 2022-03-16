@@ -27,8 +27,8 @@ test:
   artifacts:
     paths:
     - test
-  except:
-  - master
+  rules:
+    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
 
 pages:
   stage: deploy
@@ -37,8 +37,8 @@ pages:
   artifacts:
     paths:
     - public
-  only:
-  - master
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
 ```
 
 ## Building locally
