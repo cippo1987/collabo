@@ -61,9 +61,9 @@ step: just rename your project to `namespace.gitlab.io`, where `namespace` is
 your `username` or `groupname`. This can be done by navigating to your
 project's **Settings**.
 
-You'll need to configure your site too: change this line
+You'll need to configure your site too: change the `site_url` line
 in your `mkdocs.yml`, from `"https://pages.gitlab.io/mkdocs/"` to
-`site_url = "https://namespace.gitlab.io"`.
+`site_url: "https://namespace.gitlab.io"`.
 
 Read more about [user/group Pages][userpages] and [project Pages][projpages].
 
