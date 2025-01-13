@@ -2,4 +2,4 @@ site_name: A collaborative guide to survive accademia
 site_url: https://collabo.gitlab.io
 site_dir: public
 nav:
-   - Home: docs/index.md
+        - Home: 'docs/index.md'
