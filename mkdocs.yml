@@ -1,5 +1,5 @@
 site_name: 'A collaborative guide to survive accademia'
-site_url: 'https://collabo3.gitlab.io'
+site_url: 'https://collabo.gitlab.io'
 site_dir: 'public'
 docs_dir: 'docs'
 nav:
