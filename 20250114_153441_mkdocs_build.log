@@ -1,0 +1,238 @@
+[1736868881.265][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1736868881.265][INFO ][mkdocs_publisher/meta/plugin.py:62] Read files and directories metadata
+[1736868881.265][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Tools.md". Setting to default value: "False".
+[1736868881.266][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Tools.md"
+[1736868881.266][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Tools.md"
+[1736868881.266][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Welcome.md". Setting to default value: "False".
+[1736868881.266][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Welcome.md"
+[1736868881.266][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Welcome.md"
+[1736868881.266][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "index.md". Setting to default value: "False".
+[1736868881.267][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "index.md"
+[1736868881.267][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "index.md"
+[1736868881.267][INFO ][mkdocs_publisher/meta/plugin.py:73] Ignored directories: ['.obsidian', '_templates']
+[1736868881.267][INFO ][mkdocs_publisher/meta/plugin.py:74] Draft files and directories: []
+[1736868881.267][INFO ][mkdocs_publisher/meta/plugin.py:75] Hidden files and directories: []
+[1736868881.268][INFO ][mkdocs_publisher/blog/parsers.py:75] Parsing blog posts from 'blog' directory
+[1736868881.269][INFO ][mkdocs_publisher/blog/creators.py:64] Creating blog posts index files
+[1736868881.269][INFO ][mkdocs_publisher/blog/modifiers.py:42] Reorder blog posts from newest to oldest
+[1736868881.269][INFO ][mkdocs/commands/build.py:271] Cleaning site directory
+[1736868881.273][INFO ][mkdocs_publisher/blog/modifiers.py:56] Removing blog posts pages and section from direct navigation
+[1736868881.274][INFO ][mkdocs_publisher/blog/modifiers.py:58] Removing blog sub index pages from navigation menu
+[1736868881.274][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1736868881.278][WARNI][mkdocs/structure/pages.py:495] Doc file 'Tools.md' contains a link 'gimp.md', but the target is not found among documentation files.
+[1736868881.278][WARNI][mkdocs/structure/pages.py:495] Doc file 'Welcome.md' contains a link 'create a link.md', but the target is not found among documentation files.
+[1736868881.311][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 32
+[1736868881.311][INFO ][mkdocs/commands/build.py:353] Documentation built in 0.05 seconds
+[1736868881.311][INFO ][live/plugin.py:309] live-edit websocket server starting
+[1736868881.312][INFO ][live/plugin.py:272] live-edit websocket server thread started
+[1736868881.312][INFO ][live/plugin.py:264] live-edit websocket server listening on port 8484
+[1736868881.314][INFO ][mkdocs/livereload/__init__.py:180] Watching paths for changes: 'mkdocs.yml', 'docs'
+[1736868881.314][INFO ][mkdocs/livereload/__init__.py:185] Serving on http://127.0.0.1:8000/
+[1736868886.429][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868886.476][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1736868888.372][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868888.415][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868888.424][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/tools/
+[1736868889.504][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868889.508][WARNI][mkdocs/livereload/__init__.py:364] "GET /tools/gimp.md HTTP/1.1" code 404
+[1736868890.984][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868891.766][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868891.803][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868899.828][INFO ][mkdocs/livereload/__init__.py:203] Detected file changes
+[1736868899.928][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1736868899.938][INFO ][mkdocs_publisher/meta/plugin.py:62] Read files and directories metadata
+[1736868899.938][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Tools.md". Setting to default value: "False".
+[1736868899.938][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Tools.md"
+[1736868899.939][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Tools.md"
+[1736868899.939][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Welcome.md". Setting to default value: "False".
+[1736868899.939][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Welcome.md"
+[1736868899.939][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Welcome.md"
+[1736868899.939][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "index.md". Setting to default value: "False".
+[1736868899.939][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "index.md"
+[1736868899.939][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "index.md"
+[1736868899.940][INFO ][mkdocs_publisher/meta/plugin.py:73] Ignored directories: ['.obsidian', '_templates']
+[1736868899.940][INFO ][mkdocs_publisher/meta/plugin.py:74] Draft files and directories: []
+[1736868899.940][INFO ][mkdocs_publisher/meta/plugin.py:75] Hidden files and directories: []
+[1736868899.940][INFO ][mkdocs_publisher/blog/parsers.py:75] Parsing blog posts from 'blog' directory
+[1736868899.941][INFO ][mkdocs_publisher/blog/creators.py:64] Creating blog posts index files
+[1736868899.941][INFO ][mkdocs_publisher/blog/modifiers.py:42] Reorder blog posts from newest to oldest
+[1736868899.945][INFO ][mkdocs_publisher/blog/modifiers.py:56] Removing blog posts pages and section from direct navigation
+[1736868899.945][INFO ][mkdocs_publisher/blog/modifiers.py:58] Removing blog sub index pages from navigation menu
+[1736868899.945][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1736868899.948][WARNI][mkdocs/structure/pages.py:495] Doc file 'Tools.md' contains a link 'gimp.md', but the target is not found among documentation files.
+[1736868899.948][WARNI][mkdocs/structure/pages.py:495] Doc file 'Welcome.md' contains a link 'create a link.md', but the target is not found among documentation files.
+[1736868899.979][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 32
+[1736868899.980][INFO ][mkdocs/commands/build.py:353] Documentation built in 0.04 seconds
+[1736868899.980][INFO ][mkdocs/livereload/__init__.py:223] Reloading browsers
+[1736868899.983][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868900.015][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868900.020][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1736868903.831][INFO ][mkdocs/livereload/__init__.py:203] Detected file changes
+[1736868903.932][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1736868903.942][INFO ][mkdocs_publisher/meta/plugin.py:62] Read files and directories metadata
+[1736868903.942][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Tools.md". Setting to default value: "False".
+[1736868903.942][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Tools.md"
+[1736868903.943][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Tools.md"
+[1736868903.943][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Welcome.md". Setting to default value: "False".
+[1736868903.943][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Welcome.md"
+[1736868903.943][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Welcome.md"
+[1736868903.943][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "index.md". Setting to default value: "False".
+[1736868903.943][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "index.md"
+[1736868903.943][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "index.md"
+[1736868903.944][INFO ][mkdocs_publisher/meta/plugin.py:73] Ignored directories: ['.obsidian', '_templates']
+[1736868903.944][INFO ][mkdocs_publisher/meta/plugin.py:74] Draft files and directories: []
+[1736868903.944][INFO ][mkdocs_publisher/meta/plugin.py:75] Hidden files and directories: []
+[1736868903.945][INFO ][mkdocs_publisher/blog/parsers.py:75] Parsing blog posts from 'blog' directory
+[1736868903.945][INFO ][mkdocs_publisher/blog/creators.py:64] Creating blog posts index files
+[1736868903.945][INFO ][mkdocs_publisher/blog/modifiers.py:42] Reorder blog posts from newest to oldest
+[1736868903.950][INFO ][mkdocs_publisher/blog/modifiers.py:56] Removing blog posts pages and section from direct navigation
+[1736868903.950][INFO ][mkdocs_publisher/blog/modifiers.py:58] Removing blog sub index pages from navigation menu
+[1736868903.950][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1736868903.952][WARNI][mkdocs/structure/pages.py:495] Doc file 'Tools.md' contains a link 'gimp.md', but the target is not found among documentation files.
+[1736868903.953][WARNI][mkdocs/structure/pages.py:495] Doc file 'Welcome.md' contains a link 'create a link.md', but the target is not found among documentation files.
+[1736868903.991][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 32
+[1736868903.992][INFO ][mkdocs/livereload/__init__.py:223] Reloading browsers
+[1736868903.995][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868904.025][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868904.030][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1736868907.334][INFO ][mkdocs/livereload/__init__.py:203] Detected file changes
+[1736868907.435][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1736868907.447][INFO ][mkdocs_publisher/meta/plugin.py:62] Read files and directories metadata
+[1736868907.448][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Tools.md". Setting to default value: "False".
+[1736868907.448][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Tools.md"
+[1736868907.448][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Tools.md"
+[1736868907.448][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Welcome.md". Setting to default value: "False".
+[1736868907.448][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Welcome.md"
+[1736868907.448][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Welcome.md"
+[1736868907.448][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "index.md". Setting to default value: "False".
+[1736868907.449][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "index.md"
+[1736868907.449][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "index.md"
+[1736868907.449][INFO ][mkdocs_publisher/meta/plugin.py:73] Ignored directories: ['.obsidian', '_templates']
+[1736868907.449][INFO ][mkdocs_publisher/meta/plugin.py:74] Draft files and directories: []
+[1736868907.449][INFO ][mkdocs_publisher/meta/plugin.py:75] Hidden files and directories: []
+[1736868907.450][INFO ][mkdocs_publisher/blog/parsers.py:75] Parsing blog posts from 'blog' directory
+[1736868907.450][INFO ][mkdocs_publisher/blog/creators.py:64] Creating blog posts index files
+[1736868907.450][INFO ][mkdocs_publisher/blog/modifiers.py:42] Reorder blog posts from newest to oldest
+[1736868907.454][INFO ][mkdocs_publisher/blog/modifiers.py:56] Removing blog posts pages and section from direct navigation
+[1736868907.455][INFO ][mkdocs_publisher/blog/modifiers.py:58] Removing blog sub index pages from navigation menu
+[1736868907.455][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1736868907.457][WARNI][mkdocs/structure/pages.py:495] Doc file 'Tools.md' contains a link 'gimp.md', but the target is not found among documentation files.
+[1736868907.458][WARNI][mkdocs/structure/pages.py:495] Doc file 'Welcome.md' contains a link 'create a link.md', but the target is not found among documentation files.
+[1736868907.491][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 32
+[1736868907.491][INFO ][mkdocs/livereload/__init__.py:223] Reloading browsers
+[1736868907.494][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868907.536][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868907.541][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1736868910.838][INFO ][mkdocs/livereload/__init__.py:203] Detected file changes
+[1736868910.939][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1736868910.951][INFO ][mkdocs_publisher/meta/plugin.py:62] Read files and directories metadata
+[1736868910.952][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Tools.md". Setting to default value: "False".
+[1736868910.952][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Tools.md"
+[1736868910.953][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Tools.md"
+[1736868910.953][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Welcome.md". Setting to default value: "False".
+[1736868910.954][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Welcome.md"
+[1736868910.954][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Welcome.md"
+[1736868910.954][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "index.md". Setting to default value: "False".
+[1736868910.954][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "index.md"
+[1736868910.955][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "index.md"
+[1736868910.955][INFO ][mkdocs_publisher/meta/plugin.py:73] Ignored directories: ['.obsidian', '_templates']
+[1736868910.955][INFO ][mkdocs_publisher/meta/plugin.py:74] Draft files and directories: []
+[1736868910.955][INFO ][mkdocs_publisher/meta/plugin.py:75] Hidden files and directories: []
+[1736868910.957][INFO ][mkdocs_publisher/blog/parsers.py:75] Parsing blog posts from 'blog' directory
+[1736868910.957][INFO ][mkdocs_publisher/blog/creators.py:64] Creating blog posts index files
+[1736868910.958][INFO ][mkdocs_publisher/blog/modifiers.py:42] Reorder blog posts from newest to oldest
+[1736868910.962][INFO ][mkdocs_publisher/blog/modifiers.py:56] Removing blog posts pages and section from direct navigation
+[1736868910.963][INFO ][mkdocs_publisher/blog/modifiers.py:58] Removing blog sub index pages from navigation menu
+[1736868910.963][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1736868910.965][WARNI][mkdocs/structure/pages.py:495] Doc file 'Tools.md' contains a link 'gimp.md', but the target is not found among documentation files.
+[1736868910.966][WARNI][mkdocs/structure/pages.py:495] Doc file 'Welcome.md' contains a link 'create a link.md', but the target is not found among documentation files.
+[1736868910.996][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 32
+[1736868910.997][INFO ][mkdocs/livereload/__init__.py:223] Reloading browsers
+[1736868910.999][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868911.030][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868911.036][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1736868912.840][INFO ][mkdocs/livereload/__init__.py:203] Detected file changes
+[1736868912.940][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1736868912.947][INFO ][mkdocs_publisher/meta/plugin.py:62] Read files and directories metadata
+[1736868912.948][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Tools.md". Setting to default value: "False".
+[1736868912.948][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Tools.md"
+[1736868912.948][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Tools.md"
+[1736868912.948][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Welcome.md". Setting to default value: "False".
+[1736868912.948][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Welcome.md"
+[1736868912.949][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Welcome.md"
+[1736868912.949][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "index.md". Setting to default value: "False".
+[1736868912.949][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "index.md"
+[1736868912.949][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "index.md"
+[1736868912.949][INFO ][mkdocs_publisher/meta/plugin.py:73] Ignored directories: ['.obsidian', '_templates']
+[1736868912.949][INFO ][mkdocs_publisher/meta/plugin.py:74] Draft files and directories: []
+[1736868912.949][INFO ][mkdocs_publisher/meta/plugin.py:75] Hidden files and directories: []
+[1736868912.950][INFO ][mkdocs_publisher/blog/parsers.py:75] Parsing blog posts from 'blog' directory
+[1736868912.950][INFO ][mkdocs_publisher/blog/creators.py:64] Creating blog posts index files
+[1736868912.950][INFO ][mkdocs_publisher/blog/modifiers.py:42] Reorder blog posts from newest to oldest
+[1736868912.955][INFO ][mkdocs_publisher/blog/modifiers.py:56] Removing blog posts pages and section from direct navigation
+[1736868912.955][INFO ][mkdocs_publisher/blog/modifiers.py:58] Removing blog sub index pages from navigation menu
+[1736868912.955][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1736868912.957][WARNI][mkdocs/structure/pages.py:495] Doc file 'Tools.md' contains a link 'gimp.md', but the target is not found among documentation files.
+[1736868912.958][WARNI][mkdocs/structure/pages.py:495] Doc file 'Welcome.md' contains a link 'create a link.md', but the target is not found among documentation files.
+[1736868912.989][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 32
+[1736868912.989][INFO ][mkdocs/livereload/__init__.py:223] Reloading browsers
+[1736868912.992][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868913.027][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868913.038][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1736868940.851][INFO ][mkdocs/livereload/__init__.py:203] Detected file changes
+[1736868940.952][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1736868940.965][INFO ][mkdocs_publisher/meta/plugin.py:62] Read files and directories metadata
+[1736868940.965][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Tools.md". Setting to default value: "False".
+[1736868940.966][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Tools.md"
+[1736868940.966][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Tools.md"
+[1736868940.966][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Welcome.md". Setting to default value: "False".
+[1736868940.966][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Welcome.md"
+[1736868940.966][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Welcome.md"
+[1736868940.966][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "index.md". Setting to default value: "False".
+[1736868940.966][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "index.md"
+[1736868940.966][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "index.md"
+[1736868940.967][INFO ][mkdocs_publisher/meta/plugin.py:73] Ignored directories: ['.obsidian', '_templates']
+[1736868940.967][INFO ][mkdocs_publisher/meta/plugin.py:74] Draft files and directories: []
+[1736868940.967][INFO ][mkdocs_publisher/meta/plugin.py:75] Hidden files and directories: []
+[1736868940.979][INFO ][mkdocs_publisher/blog/parsers.py:75] Parsing blog posts from 'blog' directory
+[1736868940.980][INFO ][mkdocs_publisher/blog/creators.py:64] Creating blog posts index files
+[1736868940.980][INFO ][mkdocs_publisher/blog/modifiers.py:42] Reorder blog posts from newest to oldest
+[1736868941.011][INFO ][mkdocs_publisher/blog/modifiers.py:56] Removing blog posts pages and section from direct navigation
+[1736868941.011][INFO ][mkdocs_publisher/blog/modifiers.py:58] Removing blog sub index pages from navigation menu
+[1736868941.011][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1736868941.013][WARNI][mkdocs/structure/pages.py:495] Doc file 'Tools.md' contains a link 'gimp.md', but the target is not found among documentation files.
+[1736868941.014][WARNI][mkdocs/structure/pages.py:495] Doc file 'Welcome.md' contains a link 'create a link.md', but the target is not found among documentation files.
+[1736868941.096][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 32
+[1736868941.097][INFO ][mkdocs/commands/build.py:353] Documentation built in 0.13 seconds
+[1736868941.097][INFO ][mkdocs/livereload/__init__.py:223] Reloading browsers
+[1736868941.100][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868941.268][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868941.370][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1736868947.874][INFO ][mkdocs/livereload/__init__.py:203] Detected file changes
+[1736868947.975][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1736868947.985][INFO ][mkdocs_publisher/meta/plugin.py:62] Read files and directories metadata
+[1736868947.986][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Tools.md". Setting to default value: "False".
+[1736868947.986][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Tools.md"
+[1736868947.986][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Tools.md"
+[1736868947.986][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "Welcome.md". Setting to default value: "False".
+[1736868947.986][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "Welcome.md"
+[1736868947.986][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "Welcome.md"
+[1736868947.987][WARNI][mkdocs_publisher/meta/meta_files.py:222] Missing "publish" value in file "index.md". Setting to default value: "False".
+[1736868947.987][WARNI][mkdocs_publisher/meta/meta_files.py:126] Title value from "title" meta data is missing for file: "index.md"
+[1736868947.987][WARNI][mkdocs_publisher/meta/meta_files.py:139] Title value from first heading is missing for file: "index.md"
+[1736868947.987][INFO ][mkdocs_publisher/meta/plugin.py:73] Ignored directories: ['.obsidian', '_templates']
+[1736868947.987][INFO ][mkdocs_publisher/meta/plugin.py:74] Draft files and directories: []
+[1736868947.987][INFO ][mkdocs_publisher/meta/plugin.py:75] Hidden files and directories: []
+[1736868948.002][INFO ][mkdocs_publisher/blog/parsers.py:75] Parsing blog posts from 'blog' directory
+[1736868948.002][INFO ][mkdocs_publisher/blog/creators.py:64] Creating blog posts index files
+[1736868948.003][INFO ][mkdocs_publisher/blog/modifiers.py:42] Reorder blog posts from newest to oldest
+[1736868948.034][INFO ][mkdocs_publisher/blog/modifiers.py:56] Removing blog posts pages and section from direct navigation
+[1736868948.034][INFO ][mkdocs_publisher/blog/modifiers.py:58] Removing blog sub index pages from navigation menu
+[1736868948.034][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1736868948.036][WARNI][mkdocs/structure/pages.py:495] Doc file 'Tools.md' contains a link 'gimp.md', but the target is not found among documentation files.
+[1736868948.037][WARNI][mkdocs/structure/pages.py:495] Doc file 'Welcome.md' contains a link 'create a link.md', but the target is not found among documentation files.
+[1736868948.118][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 32
+[1736868948.118][INFO ][mkdocs/livereload/__init__.py:223] Reloading browsers
+[1736868948.121][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
+[1736868948.149][INFO ][live/plugin.py:192] live-edit websocket connected
+[1736868948.161][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/

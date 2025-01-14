@@ -5,4 +5,36 @@ docs_dir: 'docs'
 nav:
         - Home: index.md
 theme:
-  name: gitbook
+  name: material
+plugins:
+  - search  # Material for MkDocs search plugin
+  - pub-debugger
+  - pub-blog
+  - pub-obsidian:
+      obsidian_dir: .obsidian
+      templates_dir: _templates
+  - pub-social
+  - pub-meta
+  - pub-minifier
+#plugins:
+  - live-edit
+#  - pub-obsidian:
+#    obsidian_dir: .obsidian
+#    templates_dir: _templates
+#    backlinks:
+#      enabled: true
+#    callouts:
+#      enabled: true
+#      indentation: spaces
+#    comments:
+#      enabled: true
+#      inject_as_html: false
+#    links:
+#      wikilinks_enabled: true
+#      img_lazy: true
+#  - search  # Material for MkDocs search plugin
+#  - pub-debugger
+#  - pub-blog
+#  - pub-social
+#  - pub-meta
+#  - pub-minifier
