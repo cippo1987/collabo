@@ -9,7 +9,6 @@
   mkdocs-materiali #>=5.4.0 2068
   mkdocs-publisher 
   pub-obsidian 
-  pub-debugger 
   mkdocs-publisher 
   mkdocs-ivory
   mkdocs-material-extension
