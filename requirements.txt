@@ -3,4 +3,12 @@ mkdocs>=1.5.3
 
 # Add your custom theme if not inside a theme_dir
 # (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-#  mkdocs-material>=5.4.0
+  pub-debugger
+  mkdocs-pub-debugger
+  mkdocs-publisher
+  mkdocs-material>=5.4.0 2068  pip install mkdocs-gitbook mkdocs-publisher pub-onbsidian pub-obsidian pub-debugger mkdocs-pub-debugger mkdocs-publisher mkdocs-pub-blog 
+  mkdocs-ivory
+  mkdocs-material-extension
+  mkdocs-nature
+  mkdocs-click
+  mkdocs-live-edit-plugin

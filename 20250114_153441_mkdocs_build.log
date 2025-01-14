@@ -236,3 +236,8 @@
 [1736868948.121][INFO ][live/plugin.py:202] live-edit websocket disconnected with status OK
 [1736868948.149][INFO ][live/plugin.py:192] live-edit websocket connected
 [1736868948.161][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1736869174.008][INFO ][mkdocs/commands/serve.py:106] Shutting down...
+[1736869174.079][INFO ][mkdocs_publisher/debugger/plugin.py:105] Platform: Linux-6.11.0-13-generic-x86_64-with-glibc2.40
+[1736869174.080][INFO ][mkdocs_publisher/debugger/plugin.py:106] Python version: 3.12.7 (using virtual environment: true)
+[1736869174.080][INFO ][mkdocs_publisher/debugger/plugin.py:110] Build log file: /home/fex/Documents/8.GitLab_Page/collabo/20250114_153441_mkdocs_build.log
+[1736869174.227][INFO ][mkdocs_publisher/debugger/plugin.py:143] Debugger ZIP file: 20250114_153441_mkdocs_debug.zip
