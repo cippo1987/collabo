@@ -3,7 +3,6 @@ mkdocs>=1.5.3
 
 # Add your custom theme if not inside a theme_dir
 # (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-  pub-debugger
   mkdocs-publisher
   mkdocs-materiali #>=5.4.0 2068
   mkdocs-publisher 
