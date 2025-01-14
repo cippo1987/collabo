@@ -10,9 +10,7 @@
   mkdocs-publisher 
   pub-obsidian 
   pub-debugger 
-  mkdocs-pub-debugger 
   mkdocs-publisher 
-  mkdocs-pub-blog 
   mkdocs-ivory
   mkdocs-material-extension
   mkdocs-nature
