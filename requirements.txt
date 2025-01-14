@@ -6,7 +6,13 @@
   pub-debugger
   mkdocs-pub-debugger
   mkdocs-publisher
-  mkdocs-material>=5.4.0 2068  pip install mkdocs-gitbook mkdocs-publisher pub-onbsidian pub-obsidian pub-debugger mkdocs-pub-debugger mkdocs-publisher mkdocs-pub-blog 
+  mkdocs-materiali #>=5.4.0 2068
+  mkdocs-publisher 
+  pub-obsidian 
+  pub-debugger 
+  mkdocs-pub-debugger 
+  mkdocs-publisher 
+  mkdocs-pub-blog 
   mkdocs-ivory
   mkdocs-material-extension
   mkdocs-nature
